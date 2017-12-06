@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="be">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/TarsosDSP-latest.jar!/be" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/TarsosDSP-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>
